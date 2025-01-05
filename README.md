@@ -1,6 +1,7 @@
 # CSV Chart Viewer (Shoutout to all Economics students!)  
 
 **A web application that allows users to easily perform elasticity calculations in the topic of PRODUCTION in form six Economics current syllabus.**  
+![Screenshot](screenshot.png)
 
 ---
 
