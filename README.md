@@ -27,7 +27,7 @@ This project is organized as follows:
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/Emmatiko101/elasticity-calculator.git  
+   git clone https://github.com/emma7iko/elasticity-calculator.git  
    ```  
 
 2. **Navigate to the Project Directory**:  
